@@ -1,7 +1,7 @@
 const Home = () =>{
     return(
 <div>
-    Portfolio
+    Portfolio2
 </div>
     );
 }
